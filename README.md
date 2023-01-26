@@ -1,13 +1,18 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Docker Todo-List
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+# Contexto
+Esse projeto é importante não só para fixar o aprendizado da seção de Docker (seu conceito e comandos de manipulação de containers e imagens), como também é importante para que consigamos entender, de forma introdutória, sobre a comunicação entre serviços, no nosso caso, o front-end e back-end!
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Técnologias usadas
+
+> Docker e Dcoker Compose
+
+## Oque coloquei em pratica com esse projeto?
+
+Conteinerizar as aplicações de frontend, backend e testes, criando uma conexão entre elas e orquestrando seu funcionamento! 🐋
+O conhecimento dos comandos dockers no CLI - Interface de linha de comando;
+A habilidade de criar um contêiner Docker para uma aplicação de front-end;
+A habilidade de criar um contêiner Docker para uma aplicação de back-end;
+A habilidade de criar um contêiner Docker para uma aplicação de testes;
+A habilidade de orquestrar os três contêineres utilizando o Docker compose.
+
